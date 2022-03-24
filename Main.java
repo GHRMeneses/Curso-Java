@@ -10,7 +10,7 @@ public class Main {
        
        System.out.print("Olá Mundo!");
        System.out.println("Bom dia!");
-       //testando sem quebra de  linha
+       //Testando sem quebra de  linha
        
        int y = 32;
        System.out.println(y);
@@ -21,14 +21,14 @@ public class Main {
        //Testando variável double
        
        System.out.printf("%.2f%n", x);
-       //Testtando com duas casas decimais
+       //Testando com duas casas decimais
        
        System.out.printf("%.4f%n", x);
-       //Testtando com quatro casas decimais
+       //Testando com quatro casas decimais
        
        Locale.setDefault(Locale.US);
        System.out.printf("%.4f%n", x);
-       //Testanto como usar . inves de ,
+       //Testando como usar . invés de ,
        
        System.out.println("RESULTADO = " + x + " METROS");
        //Contatenando vários elementos em um memso comando de escrita
